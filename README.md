@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Al Halim Thoriq Febrian
 G.211.22.0033
 =======
